@@ -1,0 +1,47 @@
+body {
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #fbfaf5;
+    color: #683f36;
+    }
+
+.container {margin: 10px 50px 10px 100px;margin-top: 25px;}
+
+.title {
+    text-align: center;
+    font-size: x-large;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+.tr {
+    text-align: center;
+    font-size: smaller;
+}
+
+.btn {
+    margin-left: 8px;
+}
+
+.addbtn{
+    text-align: right;
+    padding-right: 110px;
+}
+
+.card-body{
+    margin-left: 100px;
+    height: 500px;
+    width: 800px;
+}
+
+.edit{width: 1000px;margin-left: 250px;}
+
+.form-group {
+    margin-top: 20px;
+}
+
+.select{
+    color: #666;
+    margin-top: 15px;
+}

@@ -1,0 +1,86 @@
+body {
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #fbfaf5;
+    color: #683f36;
+    }
+
+.lip{
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+.lip:hover {
+    transform: translateY(-10px);
+}
+
+.eye{width: 300px;
+    margin-top: 30px;
+}
+.eye:hover{
+    transform: translateY(-10px);
+}
+
+.base{
+    width: 300px;
+    margin-top: 30px;
+    margin-right: 200px;
+}
+.base:hover{
+    transform: translateY(-10px);
+}
+
+.skin{
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 200px;
+    }
+.skin:hover{
+    transform: translateY(-10px);
+}
+
+.tool{width: 300px;
+    margin-top: 10px}
+.tool:hover{
+    transform: translateY(-10px);
+}
+
+.all{
+    width: 300px;
+    margin-top: 10px;
+    margin-right: 200px;
+}
+.all:hover{
+    transform: translateY(-10px);
+}
+
+.text{
+    color: #666;
+    font-size: x-large;
+}
+
+a{
+    text-decoration: none;
+}
+
+.title {
+    text-align: center;
+    font-size: x-large;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+.plip{margin-left: 200px;}
+
+.pbase{
+    margin-right: 200px;
+}
+
+.pskin{
+    margin-left: 200px;
+}
+
+.pall{
+    margin-right: 200px;
+}
