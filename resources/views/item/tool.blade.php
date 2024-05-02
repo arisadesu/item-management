@@ -35,7 +35,7 @@
             <td>{{$item->detail}}</td>
             <td>
                 <div class="btn">
-                    <a href="">
+                    <a href="/items/edit/{{$item->id}}">
                         <button type="button" class="btn btn-success">編集</button>
                     </a>
                 </div>

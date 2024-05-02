@@ -34,6 +34,7 @@
                                 <small class ="text-danger">{{$message}}</small>
                                 @endforeach
                                 @endif
+                                
                                 <select name="type" class="select">
                                     <option value="">選択してください</option>
                                     <option value="リップ" >リップ</option>
@@ -47,6 +48,11 @@
 
                         <div class="form-group">
                             <label for="detail">詳細</label>
+                                @if($errors->has('detail'))
+                                @foreach($errors->get('detail') as $message)
+                                <small class ="text-danger">{{$message}}</small>
+                                @endforeach
+                                @endif
                             <input type="text" class="form-control" id="detail" name="detail" placeholder="詳細説明">
                         </div>
                     </div>
