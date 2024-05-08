@@ -18,7 +18,7 @@
 - laravel 10.13.5
 
 ## 設計書
-- [設計書ページへ](https://drive.google.com/drive/folders/1dvSQ2pafp1WFb77ieH8KyZODQHjifdkK)
+- [設計書ページへ](https://drive.google.com/drive/u/0/folders/1dvSQ2pafp1WFb77ieH8KyZODQHjifdkK)
 
 ## システム閲覧
 - [アプリケーションページへ](https://arisa-item-management-4a49c32d4883.herokuapp.com/)
